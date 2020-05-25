@@ -1,2 +1,5 @@
 # Project exclude paths
 /out/
+# using wildcard to exclude all the pyc files
+*.pyc
+/logs/
